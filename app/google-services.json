@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11915164258",
+    "project_id": "grocerydeliveryapp-18811",
+    "storage_bucket": "grocerydeliveryapp-18811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11915164258:android:785f46bc225a02f591af3b",
+        "android_client_info": {
+          "package_name": "com.example.grocerydeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11915164258-ac17t4ju1alj5rr56ced2t037pv1b68k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1jnK8N8rpY1ESdWtDhIH0u8xIcd-ma-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11915164258-ac17t4ju1alj5rr56ced2t037pv1b68k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

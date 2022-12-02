@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/drawable-v24/ic_arrow.xml" value="0.1" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/drawable/rounded_rectangle_background.xml" value="0.1535" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/layout/activity_local_shops.xml" value="0.25" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/layout/activity_login_register.xml" value="0.176" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/layout/activity_product_list.xml" value="0.25" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/layout/product_list_item.xml" value="0.25" />
+        <entry key="..\:/projects/HellbentProjects/2022/nov/Task-706/solution/GroceryDeliveryApp/app/src/main/res/layout/shop_list_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
